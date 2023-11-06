@@ -9,4 +9,6 @@ function greet(name) {
   };
   
   greet.apply(person, ["Bob"]); // Output: Hello, Bob
+
+  console.log("hey vaibhav")
   
